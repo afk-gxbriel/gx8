@@ -1,0 +1,75 @@
+
+<html>
+<head>
+<link rel="icon" href="Images/Trend.ico" type="image/x-icon">
+<title>(1) Home - Trends</title>
+<body style="background-color: rgb(177, 175, 175);">
+<style>
+.myDiv {
+border: 5px outset rgb(0, 0, 0);
+background-color: rgb(96, 115, 122);
+text-align: center;
+width: 200;
+height:550;
+}
+</style>
+
+<script>
+    function idk {
+confirm("You must sign in to do this");
+    }
+</script>
+</head>
+<body>
+
+<div class="myDiv">
+<h2 style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Trends</h2>
+<a href="file:///C:/Users/Grabe/Desktop/Trends/Error.html">
+<button style="border-width: 0px; border-radius: 5px;">➕</button>
+</a>
+<p style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+    Sign In before creating a chat
+</p>
+
+</div>
+
+<a href="file:///C:/Users/Grabe/Desktop/Trends/Logged In.html">
+<button style="background-color: rgb(96, 115, 122); margin-left: 1150px; margin-top: -560px; width: 70px; height: 25px; border-radius:5px ;">
+    Login
+</button>
+</a>
+
+<a href="file:///C:/Users/Grabe/Desktop/Trends/Logged In.html">
+<button style="background-color: rgb(96, 115, 122); margin-left: 1075px; margin-top: -560px; width: 70px; height: 25px; border-radius:5px ;">
+Sign Up
+</button>
+</a>
+
+<a href="file:///C:/Users/Grabe/Desktop/Trends/Website.html">
+    <button style="background-color: rgb(96, 115, 122); margin-left: 1000px; margin-top: -560px; width: 70px; height: 25px; border-radius:5px ;">
+        Premium
+
+    </button>
+    </a>    
+
+
+    <a href="file:///C:/Users/Grabe/Desktop/Trends/Error.html">
+        <button style="background-color: rgb(96, 115, 122); margin-left: 925px; margin-top: -560px; width: 70px; height: 25px; border-radius:5px ;">
+            Friends
+        </button>
+        </a>   
+
+<h3 style="margin-left: 600px; margin-top: -400px; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
+    Sign In to begin
+</h3>
+<input type="text" placeholder="Search people" style="margin-left: 700px; margin-top: -200px; height: 27px; border-radius: 7px;">
+
+</input>
+<a href="file:///C:/Users/Grabe/Desktop/Trends/Error.html">
+<button style="margin-left: 875px; margin-top: -200px; background-color:  rgb(96, 115, 122); height: 27px; border-radius: 7px;">
+    🔎
+</button>
+</a>
+
+</body>
+</html>
